@@ -1,0 +1,16 @@
+2023-11-25 20:07:34.153462
+Military Armored Door
+The asset has been on the market for 2502 days.
+Sell Orders
+[(2.49, 2), (2.53, 1), (2.55, 1), (2.56, 1), (2.64, 1), (2.65, 57)]
+Buy Orders
+[(1.9, 3), (1.84, 1), (1.81, 3), (1.77, 1), (1.74, 1), (1.68, 244)]
+
+2023-11-28 20:46:39.365000
+Military Armored Door
+The asset has been on the market for 2505 days.
+Sell Orders
+[(2.37, 1), (2.38, 3), (2.41, 1), (2.44, 1), (2.45, 1), (2.47, 57)]
+Buy Orders
+[(1.9, 1), (1.84, 1), (1.81, 3), (1.77, 1), (1.74, 1), (1.68, 244)]
+

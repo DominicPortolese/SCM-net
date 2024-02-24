@@ -1,0 +1,56 @@
+2023-11-25 19:58:35.945514
+No Mercy Armored Door
+The asset has been on the market for 359 days.
+Sell Orders
+[(1.64, 1), (1.87, 2), (1.89, 2), (1.95, 1), (1.98, 1), (2.0, 40)]
+Buy Orders
+[(1.56, 8), (1.54, 3), (1.53, 5), (1.52, 1), (1.51, 7), (1.5, 1024)]
+
+2023-11-25 20:08:05.198978
+No Mercy Armored Door
+The asset has been on the market for 359 days.
+Sell Orders
+[(1.87, 2), (1.89, 2), (1.95, 1), (1.98, 1), (2.0, 3), (2.02, 37)]
+Buy Orders
+[(1.56, 8), (1.54, 3), (1.53, 5), (1.52, 3), (1.51, 7), (1.5, 1024)]
+
+2023-11-28 20:37:40.914251
+No Mercy Armored Door
+The asset has been on the market for 362 days.
+Sell Orders
+[(1.8, 2), (1.81, 1), (1.84, 1), (1.92, 1), (1.93, 6), (1.99, 41)]
+Buy Orders
+[(1.64, 1), (1.58, 1), (1.57, 3), (1.56, 8), (1.55, 2), (1.53, 1026)]
+
+2023-11-28 20:47:10.434826
+No Mercy Armored Door
+The asset has been on the market for 362 days.
+Sell Orders
+[(1.8, 2), (1.81, 1), (1.84, 1), (1.92, 1), (1.93, 6), (1.99, 41)]
+Buy Orders
+[(1.64, 1), (1.58, 1), (1.57, 3), (1.56, 8), (1.55, 2), (1.53, 1026)]
+
+2023-11-28 22:41:14.048407
+No Mercy Armored Door
+The asset has been on the market for 362 days.
+Sell Orders
+[(1.8, 3), (1.84, 1), (1.92, 1), (1.93, 6), (1.99, 1), (2.0, 40)]
+Buy Orders
+[(1.64, 1), (1.58, 1), (1.57, 3), (1.56, 8), (1.55, 2), (1.53, 1026)]
+
+2023-11-28 22:58:11.768396
+No Mercy Armored Door
+The asset has been on the market for 362 days.
+Sell Orders
+[(1.8, 3), (1.84, 1), (1.92, 1), (1.93, 6), (1.99, 1), (2.0, 40)]
+Buy Orders
+[(1.64, 1), (1.58, 1), (1.57, 3), (1.56, 8), (1.55, 2), (1.53, 1026)]
+
+2023-12-01 11:47:18.023235
+No Mercy Armored Door
+The asset has been on the market for 365 days.
+Sell Orders
+[(1.74, 7), (1.75, 4), (1.78, 1), (1.79, 1), (1.84, 1), (1.9, 49)]
+Buy Orders
+[(1.58, 2), (1.57, 2), (1.56, 8), (1.54, 2), (1.53, 4), (1.52, 1019)]
+

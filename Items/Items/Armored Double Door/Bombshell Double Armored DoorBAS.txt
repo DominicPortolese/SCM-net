@@ -1,0 +1,24 @@
+2023-11-25 20:17:28.958384
+Bombshell Double Armored Door
+The asset has been on the market for 240 days.
+Sell Orders
+[(5.66, 1), (5.67, 2), (5.68, 2), (5.69, 3), (5.78, 4), (5.95, 155)]
+Buy Orders
+[(4.97, 11), (4.96, 10), (4.89, 53), (4.86, 31), (4.85, 1), (4.8, 3822)]
+
+2023-11-28 20:56:35.712991
+Bombshell Double Armored Door
+The asset has been on the market for 243 days.
+Sell Orders
+[(5.22, 4), (5.33, 1), (5.49, 2), (5.52, 1), (5.53, 1), (5.57, 144)]
+Buy Orders
+[(5.0, 1), (4.94, 10), (4.9, 24), (4.87, 1), (4.8, 85), (4.75, 3721)]
+
+2023-11-28 23:16:02.462212
+Bombshell Double Armored Door
+The asset has been on the market for 243 days.
+Sell Orders
+[(5.22, 4), (5.33, 1), (5.49, 2), (5.52, 1), (5.53, 1), (5.57, 144)]
+Buy Orders
+[(5.0, 1), (4.94, 10), (4.9, 24), (4.87, 1), (4.8, 85), (4.75, 3721)]
+

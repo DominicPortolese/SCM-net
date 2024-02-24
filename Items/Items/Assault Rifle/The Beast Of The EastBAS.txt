@@ -1,0 +1,16 @@
+2023-11-25 20:59:18.616566
+The Beast Of The East
+The asset has been on the market for 2249 days.
+Sell Orders
+[(1.03, 1), (1.09, 2), (1.1, 1), (1.11, 1), (1.16, 2), (1.17, 53)]
+Buy Orders
+[(0.93, 1), (0.87, 2), (0.86, 3), (0.85, 3), (0.84, 2), (0.83, 471)]
+
+2023-11-29 01:02:39.046480
+The Beast Of The East
+The asset has been on the market for 2253 days.
+Sell Orders
+[(1.01, 1), (1.04, 1), (1.05, 1), (1.06, 1), (1.07, 2), (1.1, 56)]
+Buy Orders
+[(0.88, 1), (0.87, 2), (0.86, 3), (0.85, 2), (0.84, 2), (0.83, 466)]
+

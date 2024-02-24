@@ -1,0 +1,40 @@
+2023-11-25 19:59:10.286034
+Day and Night Armored Door
+The asset has been on the market for 191 days.
+Sell Orders
+[(1.73, 11), (1.74, 1), (1.75, 2), (1.77, 2), (1.78, 4), (1.86, 40)]
+Buy Orders
+[(1.4, 1), (1.35, 66), (1.34, 85), (1.33, 2), (1.32, 39), (1.29, 1108)]
+
+2023-11-25 20:04:32.345205
+Day and Night Armored Door
+The asset has been on the market for 191 days.
+Sell Orders
+[(1.73, 11), (1.74, 1), (1.75, 2), (1.77, 2), (1.78, 4), (1.86, 40)]
+Buy Orders
+[(1.4, 1), (1.35, 66), (1.34, 85), (1.33, 2), (1.32, 39), (1.29, 1108)]
+
+2023-11-28 20:38:13.687898
+Day and Night Armored Door
+The asset has been on the market for 194 days.
+Sell Orders
+[(1.56, 6), (1.57, 1), (1.58, 1), (1.62, 1), (1.63, 1), (1.64, 53)]
+Buy Orders
+[(1.38, 43), (1.35, 107), (1.34, 2), (1.32, 35), (1.31, 3), (1.29, 1100)]
+
+2023-11-28 20:43:59.494807
+Day and Night Armored Door
+The asset has been on the market for 194 days.
+Sell Orders
+[(1.56, 6), (1.57, 1), (1.58, 1), (1.62, 1), (1.63, 1), (1.64, 53)]
+Buy Orders
+[(1.38, 43), (1.35, 107), (1.34, 2), (1.32, 35), (1.31, 3), (1.29, 1100)]
+
+2023-11-28 22:48:12.574459
+Day and Night Armored Door
+The asset has been on the market for 194 days.
+Sell Orders
+[(1.5, 1), (1.56, 5), (1.57, 1), (1.58, 1), (1.62, 1), (1.63, 54)]
+Buy Orders
+[(1.38, 42), (1.35, 107), (1.34, 2), (1.32, 35), (1.31, 3), (1.29, 1100)]
+

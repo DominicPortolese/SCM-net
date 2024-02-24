@@ -1,0 +1,24 @@
+2023-11-25 20:05:09.460201
+Pixel Armored Door
+The asset has been on the market for 625 days.
+Sell Orders
+[(0.99, 11), (1.0, 4), (1.01, 3), (1.03, 2), (1.06, 1), (1.07, 77)]
+Buy Orders
+[(0.88, 1), (0.87, 1), (0.86, 28), (0.85, 16), (0.84, 17), (0.83, 343)]
+
+2023-11-28 20:44:31.527473
+Pixel Armored Door
+The asset has been on the market for 628 days.
+Sell Orders
+[(1.0, 9), (1.01, 4), (1.05, 2), (1.06, 1), (1.07, 3), (1.09, 74)]
+Buy Orders
+[(0.87, 26), (0.86, 9), (0.85, 16), (0.84, 1), (0.83, 28), (0.82, 311)]
+
+2023-11-28 22:48:54.380272
+Pixel Armored Door
+The asset has been on the market for 628 days.
+Sell Orders
+[(1.0, 9), (1.01, 4), (1.05, 2), (1.06, 1), (1.07, 3), (1.09, 74)]
+Buy Orders
+[(0.87, 26), (0.86, 9), (0.85, 16), (0.84, 1), (0.83, 28), (0.82, 311)]
+

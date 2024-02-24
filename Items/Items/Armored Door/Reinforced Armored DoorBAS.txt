@@ -1,0 +1,24 @@
+2023-11-25 20:06:31.316226
+Reinforced Armored Door
+The asset has been on the market for 471 days.
+Sell Orders
+[(1.1, 1), (1.16, 11), (1.17, 2), (1.21, 2), (1.22, 1), (1.24, 63)]
+Buy Orders
+[(0.98, 3), (0.97, 16), (0.96, 2), (0.95, 1), (0.94, 6), (0.93, 1025)]
+
+2023-11-28 20:45:34.961878
+Reinforced Armored Door
+The asset has been on the market for 474 days.
+Sell Orders
+[(1.07, 2), (1.08, 5), (1.09, 8), (1.1, 1), (1.16, 4), (1.18, 67)]
+Buy Orders
+[(0.98, 16), (0.96, 1), (0.95, 1), (0.94, 4), (0.93, 13), (0.92, 1011)]
+
+2023-11-28 22:50:17.511909
+Reinforced Armored Door
+The asset has been on the market for 474 days.
+Sell Orders
+[(1.07, 1), (1.08, 5), (1.09, 8), (1.1, 1), (1.16, 4), (1.18, 67)]
+Buy Orders
+[(0.98, 15), (0.96, 1), (0.95, 1), (0.94, 4), (0.93, 13), (0.92, 1011)]
+

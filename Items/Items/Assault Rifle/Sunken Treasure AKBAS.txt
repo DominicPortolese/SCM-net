@@ -1,0 +1,32 @@
+2023-11-25 21:25:31.841153
+Sunken Treasure AK
+The asset has been on the market for 1535 days.
+Sell Orders
+[(1.5, 1), (1.53, 2), (1.54, 3), (1.55, 1), (1.62, 2), (1.65, 32)]
+Buy Orders
+[(1.2, 2), (1.11, 3), (1.06, 3), (1.05, 1), (1.03, 2), (1.01, 276)]
+
+2023-11-25 21:26:05.462264
+Sunken Treasure AK
+The asset has been on the market for 1535 days.
+Sell Orders
+[(1.5, 1), (1.53, 2), (1.54, 3), (1.55, 1), (1.62, 2), (1.65, 32)]
+Buy Orders
+[(1.2, 2), (1.11, 3), (1.06, 3), (1.05, 1), (1.03, 2), (1.01, 276)]
+
+2023-11-29 01:53:51.101978
+Sunken Treasure AK
+The asset has been on the market for 1539 days.
+Sell Orders
+[(1.24, 1), (1.47, 1), (1.49, 13), (1.53, 3), (1.56, 1), (1.57, 38)]
+Buy Orders
+[(1.2, 1), (1.19, 1), (1.12, 1), (1.11, 5), (1.06, 3), (1.05, 277)]
+
+2023-11-29 01:54:33.965836
+Sunken Treasure AK
+The asset has been on the market for 1539 days.
+Sell Orders
+[(1.24, 1), (1.47, 1), (1.49, 13), (1.53, 3), (1.56, 1), (1.57, 38)]
+Buy Orders
+[(1.2, 1), (1.19, 1), (1.12, 1), (1.11, 5), (1.06, 3), (1.05, 277)]
+

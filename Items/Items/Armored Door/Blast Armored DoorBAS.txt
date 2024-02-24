@@ -1,0 +1,24 @@
+2023-11-25 20:08:37.533098
+Blast Armored Door
+The asset has been on the market for 1716 days.
+Sell Orders
+[(1.45, 2), (1.54, 1), (1.58, 1), (1.61, 1), (1.63, 1), (1.65, 43)]
+Buy Orders
+[(1.09, 10), (1.07, 9), (1.06, 5), (1.05, 10), (1.04, 1), (1.01, 146)]
+
+2023-11-28 20:47:43.737693
+Blast Armored Door
+The asset has been on the market for 1719 days.
+Sell Orders
+[(1.65, 3), (1.72, 1), (1.76, 1), (1.8, 1), (1.87, 1), (1.89, 37)]
+Buy Orders
+[(1.19, 9), (1.18, 1), (1.16, 1), (1.15, 10), (1.12, 13), (1.11, 184)]
+
+2023-11-28 22:58:53.051333
+Blast Armored Door
+The asset has been on the market for 1719 days.
+Sell Orders
+[(1.65, 3), (1.72, 1), (1.76, 1), (1.8, 1), (1.87, 1), (1.89, 37)]
+Buy Orders
+[(1.19, 8), (1.18, 1), (1.16, 1), (1.15, 10), (1.12, 13), (1.11, 184)]
+

@@ -1,0 +1,32 @@
+2023-11-25 19:57:33.571253
+Outer Planets Armored Door
+The asset has been on the market for 597 days.
+Sell Orders
+[(2.41, 2), (2.44, 2), (2.46, 1), (2.48, 2), (2.49, 1), (2.5, 70)]
+Buy Orders
+[(2.11, 1), (2.1, 19), (2.08, 1), (2.07, 2), (2.04, 8), (2.03, 1898)]
+
+2023-11-28 20:36:38.083419
+Outer Planets Armored Door
+The asset has been on the market for 600 days.
+Sell Orders
+[(2.45, 1), (2.46, 1), (2.53, 2), (2.55, 1), (2.57, 1), (2.58, 62)]
+Buy Orders
+[(2.12, 5), (2.11, 9), (2.1, 1), (2.08, 2), (2.04, 8), (2.03, 1894)]
+
+2023-11-28 22:39:49.959130
+Outer Planets Armored Door
+The asset has been on the market for 600 days.
+Sell Orders
+[(2.45, 1), (2.46, 1), (2.53, 2), (2.55, 1), (2.57, 1), (2.58, 62)]
+Buy Orders
+[(2.12, 5), (2.11, 9), (2.1, 1), (2.08, 2), (2.04, 8), (2.03, 1894)]
+
+2023-12-01 11:46:11.245390
+Outer Planets Armored Door
+The asset has been on the market for 603 days.
+Sell Orders
+[(2.37, 8), (2.39, 1), (2.44, 1), (2.46, 1), (2.49, 5), (2.5, 66)]
+Buy Orders
+[(2.12, 12), (2.09, 1), (2.07, 2), (2.04, 8), (2.03, 2), (2.01, 1876)]
+

@@ -1,0 +1,16 @@
+2023-11-25 20:43:21.358875
+Pumpkin Exhibition
+The asset has been on the market for 23 days.
+Sell Orders
+[(0.94, 1), (0.95, 1), (0.98, 8), (0.99, 5), (1.0, 1), (1.01, 68)]
+Buy Orders
+[(0.77, 91), (0.76, 2), (0.75, 23), (0.73, 56), (0.72, 60), (0.71, 305)]
+
+2023-11-29 00:18:45.899214
+Pumpkin Exhibition
+The asset has been on the market for 27 days.
+Sell Orders
+[(0.87, 5), (0.88, 1), (0.89, 1), (0.93, 2), (0.94, 8), (0.97, 63)]
+Buy Orders
+[(0.76, 16), (0.75, 1), (0.73, 56), (0.72, 60), (0.71, 10), (0.66, 308)]
+

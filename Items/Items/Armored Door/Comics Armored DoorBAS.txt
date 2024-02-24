@@ -1,0 +1,40 @@
+2023-11-25 20:01:18.822083
+Comics Armored Door
+The asset has been on the market for 821 days.
+Sell Orders
+[(1.92, 1), (1.97, 5), (1.98, 1), (1.99, 2), (2.01, 1), (2.03, 68)]
+Buy Orders
+[(1.58, 3), (1.57, 25), (1.54, 14), (1.51, 62), (1.5, 19), (1.49, 1488)]
+
+2023-11-28 20:40:24.014799
+Comics Armored Door
+The asset has been on the market for 824 days.
+Sell Orders
+[(1.73, 1), (1.92, 1), (1.96, 1), (1.97, 3), (1.98, 1), (1.99, 72)]
+Buy Orders
+[(1.58, 2), (1.57, 5), (1.55, 14), (1.54, 4), (1.53, 20), (1.52, 1560)]
+
+2023-11-28 20:45:03.706881
+Comics Armored Door
+The asset has been on the market for 824 days.
+Sell Orders
+[(1.73, 1), (1.92, 1), (1.96, 1), (1.97, 3), (1.98, 1), (1.99, 72)]
+Buy Orders
+[(1.58, 2), (1.57, 5), (1.55, 14), (1.54, 4), (1.53, 20), (1.52, 1560)]
+
+2023-11-28 22:44:03.699688
+Comics Armored Door
+The asset has been on the market for 824 days.
+Sell Orders
+[(1.96, 1), (1.97, 3), (1.98, 1), (1.99, 1), (2.02, 1), (2.04, 70)]
+Buy Orders
+[(1.58, 3), (1.57, 5), (1.55, 14), (1.54, 4), (1.53, 20), (1.52, 1559)]
+
+2023-11-28 22:49:35.574884
+Comics Armored Door
+The asset has been on the market for 824 days.
+Sell Orders
+[(1.96, 1), (1.97, 3), (1.98, 1), (1.99, 1), (2.02, 1), (2.04, 70)]
+Buy Orders
+[(1.58, 3), (1.57, 5), (1.55, 14), (1.54, 4), (1.53, 20), (1.52, 1559)]
+

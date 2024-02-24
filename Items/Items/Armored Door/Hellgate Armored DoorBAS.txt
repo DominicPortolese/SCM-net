@@ -1,0 +1,24 @@
+2023-11-25 19:55:57.804970
+Hellgate Armored Door
+The asset has been on the market for 674 days.
+Sell Orders
+[(1.21, 3), (1.22, 4), (1.23, 2), (1.24, 2), (1.26, 2), (1.27, 136)]
+Buy Orders
+[(1.07, 8), (1.06, 27), (0.99, 22), (0.98, 115), (0.97, 4), (0.96, 2001)]
+
+2023-11-28 20:34:58.198736
+Hellgate Armored Door
+The asset has been on the market for 677 days.
+Sell Orders
+[(1.17, 3), (1.19, 1), (1.2, 3), (1.22, 1), (1.23, 3), (1.24, 139)]
+Buy Orders
+[(0.99, 46), (0.98, 3), (0.97, 78), (0.96, 17), (0.95, 13), (0.94, 1968)]
+
+2023-12-01 11:38:39.116549
+Hellgate Armored Door
+The asset has been on the market for 680 days.
+Sell Orders
+[(1.12, 3), (1.15, 1), (1.16, 6), (1.17, 3), (1.18, 1), (1.2, 146)]
+Buy Orders
+[(1.0, 1), (0.99, 38), (0.98, 2), (0.97, 78), (0.96, 12), (0.95, 1980)]
+

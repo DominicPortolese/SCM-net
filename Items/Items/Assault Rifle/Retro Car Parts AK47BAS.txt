@@ -1,0 +1,48 @@
+2023-11-25 20:30:31.618482
+Retro Car Parts AK47
+The asset has been on the market for 2410 days.
+Sell Orders
+[(1.49, 2), (1.56, 1), (1.58, 1), (1.62, 1), (1.63, 1), (1.65, 28)]
+Buy Orders
+[(1.27, 1), (1.24, 1), (1.23, 1), (1.16, 2), (1.15, 5), (1.11, 109)]
+
+2023-11-25 21:43:24.447867
+Retro Car Parts AK47
+The asset has been on the market for 2410 days.
+Sell Orders
+[(1.49, 2), (1.56, 1), (1.58, 1), (1.62, 1), (1.63, 1), (1.65, 28)]
+Buy Orders
+[(1.27, 1), (1.24, 1), (1.23, 1), (1.16, 2), (1.15, 5), (1.11, 109)]
+
+2023-11-28 21:09:53.400841
+Retro Car Parts AK47
+The asset has been on the market for 2413 days.
+Sell Orders
+[(1.56, 1), (1.63, 1), (1.65, 1), (1.77, 1), (1.9, 1), (1.93, 25)]
+Buy Orders
+[(1.27, 1), (1.24, 1), (1.23, 1), (1.18, 1), (1.17, 12), (1.16, 114)]
+
+2023-11-28 23:32:46.183333
+Retro Car Parts AK47
+The asset has been on the market for 2413 days.
+Sell Orders
+[(1.55, 1), (1.56, 1), (1.63, 1), (1.65, 1), (1.77, 1), (1.9, 26)]
+Buy Orders
+[(1.27, 1), (1.24, 1), (1.23, 1), (1.18, 1), (1.17, 12), (1.16, 114)]
+
+2023-11-29 02:24:38.709262
+Retro Car Parts AK47
+The asset has been on the market for 2414 days.
+Sell Orders
+[(1.55, 1), (1.56, 1), (1.63, 1), (1.65, 1), (1.77, 1), (1.9, 26)]
+Buy Orders
+[(1.27, 1), (1.24, 1), (1.23, 1), (1.18, 1), (1.17, 12), (1.16, 114)]
+
+2023-11-29 02:26:47.675604
+Retro Car Parts AK47
+The asset has been on the market for 2414 days.
+Sell Orders
+[(1.55, 1), (1.56, 1), (1.63, 1), (1.65, 1), (1.77, 1), (1.9, 26)]
+Buy Orders
+[(1.27, 1), (1.24, 1), (1.23, 1), (1.18, 1), (1.17, 12), (1.16, 114)]
+

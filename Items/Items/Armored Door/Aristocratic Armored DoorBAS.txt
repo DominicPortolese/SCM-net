@@ -1,0 +1,24 @@
+2023-11-25 20:10:48.698871
+Aristocratic Armored Door
+The asset has been on the market for 2172 days.
+Sell Orders
+[(1.58, 1), (1.61, 2), (1.72, 2), (1.75, 1), (1.79, 1), (1.8, 44)]
+Buy Orders
+[(1.27, 2), (1.24, 6), (1.21, 1), (1.19, 5), (1.05, 1), (0.98, 99)]
+
+2023-11-28 20:50:09.253414
+Aristocratic Armored Door
+The asset has been on the market for 2175 days.
+Sell Orders
+[(1.75, 1), (1.8, 1), (1.81, 1), (1.88, 8), (1.98, 2), (2.21, 33)]
+Buy Orders
+[(1.3, 1), (1.29, 1), (1.27, 1), (1.21, 1), (1.2, 5), (1.06, 99)]
+
+2023-11-28 23:07:32.102337
+Aristocratic Armored Door
+The asset has been on the market for 2175 days.
+Sell Orders
+[(1.38, 1), (1.75, 1), (1.8, 1), (1.81, 1), (1.88, 8), (1.98, 35)]
+Buy Orders
+[(1.3, 1), (1.29, 1), (1.27, 1), (1.21, 1), (1.2, 5), (1.06, 99)]
+

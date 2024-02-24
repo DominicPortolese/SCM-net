@@ -1,0 +1,48 @@
+2023-11-25 20:00:15.863879
+Green Armored Container Door
+The asset has been on the market for 2396 days.
+Sell Orders
+[(11.22, 1), (11.35, 1), (11.5, 3), (11.88, 1), (12.14, 1), (12.35, 25)]
+Buy Orders
+[(5.63, 3), (5.61, 18), (5.6, 2), (5.53, 4), (5.45, 6), (5.44, 295)]
+
+2023-11-25 20:13:29.550799
+Green Armored Container Door
+The asset has been on the market for 2396 days.
+Sell Orders
+[(11.22, 1), (11.35, 1), (11.5, 3), (11.88, 1), (12.14, 1), (12.35, 25)]
+Buy Orders
+[(5.63, 3), (5.61, 18), (5.6, 2), (5.53, 4), (5.45, 6), (5.44, 295)]
+
+2023-11-28 20:39:19.294083
+Green Armored Container Door
+The asset has been on the market for 2399 days.
+Sell Orders
+[(10.31, 1), (10.35, 1), (10.97, 1), (11.2, 1), (11.42, 1), (11.5, 29)]
+Buy Orders
+[(5.83, 2), (5.82, 1), (5.8, 1), (5.66, 16), (5.64, 1), (5.6, 307)]
+
+2023-11-28 20:52:50.930031
+Green Armored Container Door
+The asset has been on the market for 2399 days.
+Sell Orders
+[(10.31, 1), (10.35, 1), (10.97, 1), (11.2, 1), (11.42, 1), (11.5, 29)]
+Buy Orders
+[(5.83, 2), (5.82, 1), (5.8, 1), (5.66, 16), (5.64, 1), (5.6, 307)]
+
+2023-11-28 22:42:39.235951
+Green Armored Container Door
+The asset has been on the market for 2399 days.
+Sell Orders
+[(10.3, 1), (10.31, 1), (10.35, 1), (10.97, 1), (11.2, 1), (11.42, 30)]
+Buy Orders
+[(5.83, 2), (5.82, 1), (5.8, 1), (5.66, 16), (5.64, 1), (5.6, 307)]
+
+2023-11-28 23:11:06.344805
+Green Armored Container Door
+The asset has been on the market for 2399 days.
+Sell Orders
+[(10.3, 1), (10.31, 1), (10.35, 1), (10.97, 1), (11.2, 1), (11.42, 30)]
+Buy Orders
+[(5.83, 2), (5.82, 1), (5.8, 1), (5.66, 16), (5.64, 1), (5.6, 307)]
+

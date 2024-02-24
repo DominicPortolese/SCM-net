@@ -1,0 +1,16 @@
+2023-11-25 21:06:51.932203
+Year of the Rabbit AR
+The asset has been on the market for 303 days.
+Sell Orders
+[(0.89, 2), (0.92, 2), (0.95, 1), (0.96, 4), (0.97, 1), (0.98, 55)]
+Buy Orders
+[(0.78, 1), (0.77, 9), (0.76, 39), (0.75, 2), (0.74, 58), (0.73, 1038)]
+
+2023-11-29 01:12:33.345211
+Year of the Rabbit AR
+The asset has been on the market for 307 days.
+Sell Orders
+[(0.98, 1), (0.99, 1), (1.01, 2), (1.03, 2), (1.04, 1), (1.09, 47)]
+Buy Orders
+[(0.78, 7), (0.77, 3), (0.76, 38), (0.75, 2), (0.74, 58), (0.73, 1037)]
+

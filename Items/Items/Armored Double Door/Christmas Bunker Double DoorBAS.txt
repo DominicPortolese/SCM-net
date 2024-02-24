@@ -1,0 +1,24 @@
+2023-11-25 20:16:57.477180
+Christmas Bunker Double Door
+The asset has been on the market for 1065 days.
+Sell Orders
+[(11.18, 1), (11.2, 1), (11.42, 1), (11.46, 1), (11.47, 1), (11.5, 45)]
+Buy Orders
+[(9.2, 3), (9.15, 3), (9.04, 2), (9.03, 2), (9.0, 1), (8.85, 1363)]
+
+2023-11-28 20:56:03.917898
+Christmas Bunker Double Door
+The asset has been on the market for 1068 days.
+Sell Orders
+[(11.47, 1), (11.5, 2), (11.53, 1), (11.54, 1), (11.55, 1), (11.58, 44)]
+Buy Orders
+[(9.16, 1), (9.13, 1), (9.12, 2), (9.04, 3), (9.03, 2), (8.91, 1353)]
+
+2023-11-28 23:15:21.468645
+Christmas Bunker Double Door
+The asset has been on the market for 1068 days.
+Sell Orders
+[(11.47, 1), (11.5, 2), (11.53, 1), (11.54, 1), (11.55, 1), (11.58, 43)]
+Buy Orders
+[(9.17, 1), (9.16, 1), (9.13, 1), (9.12, 2), (9.04, 3), (9.03, 1355)]
+

@@ -1,0 +1,24 @@
+2023-11-25 19:54:21.826468
+Cargo Heli Armored Door
+The asset has been on the market for 618 days.
+Sell Orders
+[(1.49, 4), (1.5, 1), (1.56, 1), (1.57, 1), (1.58, 3), (1.61, 65)]
+Buy Orders
+[(1.4, 1), (1.28, 2), (1.22, 5), (1.21, 4), (1.19, 3), (1.18, 1044)]
+
+2023-11-28 20:33:21.905568
+Cargo Heli Armored Door
+The asset has been on the market for 621 days.
+Sell Orders
+[(1.45, 1), (1.47, 1), (1.49, 2), (1.5, 4), (1.51, 4), (1.56, 69)]
+Buy Orders
+[(1.23, 7), (1.22, 3), (1.21, 12), (1.2, 2), (1.19, 3), (1.18, 1041)]
+
+2023-12-01 11:37:02.932949
+Cargo Heli Armored Door
+The asset has been on the market for 624 days.
+Sell Orders
+[(1.49, 11), (1.5, 1), (1.56, 1), (1.57, 1), (1.58, 3), (1.61, 64)]
+Buy Orders
+[(1.24, 4), (1.23, 1), (1.21, 3), (1.2, 2), (1.19, 1), (1.17, 1040)]
+

@@ -1,0 +1,24 @@
+2023-11-25 20:07:02.848308
+Keep Out Armored Door
+The asset has been on the market for 2361 days.
+Sell Orders
+[(1.5, 1), (1.56, 3), (1.57, 1), (1.58, 1), (1.68, 2), (1.74, 52)]
+Buy Orders
+[(1.24, 2), (1.23, 1), (1.21, 5), (1.19, 6), (1.17, 4), (1.12, 142)]
+
+2023-11-28 20:46:06.440155
+Keep Out Armored Door
+The asset has been on the market for 2364 days.
+Sell Orders
+[(1.58, 2), (1.69, 1), (1.7, 1), (1.75, 1), (1.87, 1), (1.97, 36)]
+Buy Orders
+[(1.24, 2), (1.15, 1), (1.12, 6), (1.1, 1), (1.08, 1), (1.06, 131)]
+
+2023-11-28 22:50:59.584513
+Keep Out Armored Door
+The asset has been on the market for 2364 days.
+Sell Orders
+[(1.58, 2), (1.69, 1), (1.7, 1), (1.75, 1), (1.87, 1), (1.97, 36)]
+Buy Orders
+[(1.24, 2), (1.15, 1), (1.12, 6), (1.1, 1), (1.08, 1), (1.06, 131)]
+

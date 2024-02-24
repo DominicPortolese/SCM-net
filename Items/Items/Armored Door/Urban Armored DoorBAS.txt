@@ -1,0 +1,24 @@
+2023-11-25 20:11:20.857697
+Urban Armored Door
+The asset has been on the market for 2424 days.
+Sell Orders
+[(5.13, 1), (5.17, 3), (5.22, 1), (5.29, 1), (5.35, 1), (5.42, 93)]
+Buy Orders
+[(5.11, 1), (4.94, 3), (4.89, 3), (4.87, 3), (2.89, 2), (2.46, 414)]
+
+2023-11-28 20:50:43.451741
+Urban Armored Door
+The asset has been on the market for 2427 days.
+Sell Orders
+[(5.41, 1), (5.43, 1), (5.44, 1), (5.48, 1), (5.54, 1), (5.6, 89)]
+Buy Orders
+[(5.38, 2), (5.37, 3), (5.33, 3), (5.19, 3), (2.91, 2), (2.45, 414)]
+
+2023-11-28 23:08:14.677152
+Urban Armored Door
+The asset has been on the market for 2427 days.
+Sell Orders
+[(5.48, 1), (5.54, 1), (5.6, 1), (5.66, 1), (5.69, 1), (5.72, 86)]
+Buy Orders
+[(5.47, 3), (5.43, 3), (5.41, 3), (5.19, 3), (2.91, 2), (2.45, 414)]
+

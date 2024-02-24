@@ -1,0 +1,40 @@
+2023-11-25 20:41:46.943046
+King of the Jungle AK47
+The asset has been on the market for 2116 days.
+Sell Orders
+[(1.44, 3), (1.46, 2), (1.49, 1), (1.51, 1), (1.54, 2), (1.63, 24)]
+Buy Orders
+[(1.06, 1), (1.05, 2), (1.04, 1), (1.0, 5), (0.96, 5), (0.89, 126)]
+
+2023-11-25 21:34:46.874163
+King of the Jungle AK47
+The asset has been on the market for 2116 days.
+Sell Orders
+[(1.44, 3), (1.46, 2), (1.49, 1), (1.51, 1), (1.54, 2), (1.63, 24)]
+Buy Orders
+[(1.06, 1), (1.05, 2), (1.04, 1), (1.0, 5), (0.96, 5), (0.89, 126)]
+
+2023-11-25 21:35:56.974258
+King of the Jungle AK47
+The asset has been on the market for 2116 days.
+Sell Orders
+[(1.44, 3), (1.46, 2), (1.49, 1), (1.51, 1), (1.54, 2), (1.63, 24)]
+Buy Orders
+[(1.06, 1), (1.05, 2), (1.04, 1), (1.0, 5), (0.96, 5), (0.89, 126)]
+
+2023-11-29 00:10:51.837686
+King of the Jungle AK47
+The asset has been on the market for 2120 days.
+Sell Orders
+[(1.39, 2), (1.43, 1), (1.44, 1), (1.45, 2), (1.46, 1), (1.51, 28)]
+Buy Orders
+[(1.05, 1), (1.0, 4), (0.96, 5), (0.89, 1), (0.88, 1), (0.87, 120)]
+
+2023-11-29 02:12:26.607871
+King of the Jungle AK47
+The asset has been on the market for 2120 days.
+Sell Orders
+[(1.39, 2), (1.43, 1), (1.44, 1), (1.45, 2), (1.46, 1), (1.51, 28)]
+Buy Orders
+[(1.05, 1), (1.0, 4), (0.96, 5), (0.89, 1), (0.88, 1), (0.87, 120)]
+

@@ -1,0 +1,32 @@
+2023-11-25 20:42:18.179423
+Monument Memories AR
+The asset has been on the market for 1289 days.
+Sell Orders
+[(0.99, 1), (1.0, 1), (1.03, 3), (1.04, 1), (1.06, 14), (1.07, 63)]
+Buy Orders
+[(0.85, 4), (0.84, 6), (0.83, 53), (0.82, 2), (0.8, 1), (0.78, 881)]
+
+2023-11-25 21:02:29.943228
+Monument Memories AR
+The asset has been on the market for 1289 days.
+Sell Orders
+[(0.99, 1), (1.0, 1), (1.03, 3), (1.04, 1), (1.06, 14), (1.07, 63)]
+Buy Orders
+[(0.85, 4), (0.84, 6), (0.83, 52), (0.82, 2), (0.8, 1), (0.78, 881)]
+
+2023-11-29 00:11:34.148375
+Monument Memories AR
+The asset has been on the market for 1293 days.
+Sell Orders
+[(0.98, 9), (0.99, 1), (1.0, 4), (1.03, 1), (1.04, 1), (1.08, 59)]
+Buy Orders
+[(0.84, 16), (0.83, 28), (0.82, 2), (0.8, 1), (0.78, 1), (0.77, 878)]
+
+2023-11-29 01:06:56.174227
+Monument Memories AR
+The asset has been on the market for 1293 days.
+Sell Orders
+[(0.98, 8), (0.99, 1), (1.0, 4), (1.03, 1), (1.04, 1), (1.08, 59)]
+Buy Orders
+[(0.84, 16), (0.83, 28), (0.82, 2), (0.8, 1), (0.78, 1), (0.77, 878)]
+
